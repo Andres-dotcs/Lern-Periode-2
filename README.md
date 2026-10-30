@@ -19,3 +19,9 @@ Unity Simples Spiel programmieren
 Alte Module gut Abschliessen sowie mit 162 und 117 anfangen.
 
 # 23.010.2026
+
+# Lern-Atelier2.1
+### 30.10.2026
+
+## Lernziele
+- [ ] An Projekt weitermachen btw. Einfaches spiel.
