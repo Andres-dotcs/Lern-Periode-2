@@ -32,11 +32,12 @@ Alte Module gut Abschliessen sowie mit 162 und 117 anfangen.
 ### 13.11.2026
 
 ## Lernziele
-Entscheidung und Realisierung des Projekts anfangen sowie die grobe Planung von Aufgaben zwischen mich und mein Projektpartner
+Entscheidung und Realisierung des Projekts anfangen sowie die grobe Planung von Aufgaben zwischen mich und mein Projektpartner.
+Vielleicht an persönlichen Projekt weitermachen (bearbeiten zu mind. einen Präsentablen Zustand)
 
 ## To-Do Liste
 - [ ] Besprechung mit Projektpartner über Aufgaben aufteilung.
 - [ ] Programmiren?
 
 ## Notizen und Bemerkungen
-Einzelgespräch mit her Meyer. Stand des Projekts sowie der Klasse besprochen + Empfehlung ILA Eintrag **VOR** der ILA Lektion abzuschliessen.
+Einzelgespräch mit Herr Meyer. Stand des Projekts sowie der Klasse besprochen. KI im zusammen mit Applikationsentwicklung + Empfehlung ILA Eintrag **VOR** der ILA Lektion abzuschliessen.
