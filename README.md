@@ -38,6 +38,7 @@ Vielleicht an persönlichen Projekt weitermachen (bearbeiten zu mind. einen Prä
 ## To-Do Liste
 - [ ] Besprechung mit Projektpartner über Aufgaben aufteilung.
 - [ ] Programmiren?
+- [ ] Persönliches Projekt
 
 ## Notizen und Bemerkungen
 Einzelgespräch mit Herr Meyer. Stand des Projekts sowie der Klasse besprochen. KI im zusammen mit Applikationsentwicklung + Empfehlung ILA Eintrag **VOR** der ILA Lektion abzuschliessen.
