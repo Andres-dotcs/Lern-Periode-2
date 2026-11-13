@@ -24,4 +24,19 @@ Alte Module gut Abschliessen sowie mit 162 und 117 anfangen.
 ### 30.10.2026
 
 ## Lernziele
-- [ ] An Projekt weitermachen btw. Einfaches spiel.
+- [x] An Projekt weitermachen btw. Einfaches spiel.
+
+# 23.010.2026
+
+# Lern-Atelier2.3
+### 13.11.2026
+
+## Lernziele
+Entscheidung und Realisierung des Projekts anfangen sowie die grobe Planung von Aufgaben zwischen mich und mein Projektpartner
+
+## To-Do Liste
+- [ ] Besprechung mit Projektpartner über Aufgaben aufteilung.
+- [ ] Programmiren?
+
+## Notizen und Bemerkungen
+Einzelgespräch mit her Meyer. Stand des Projekts sowie der Klasse besprochen + Empfehlung ILA Eintrag **VOR** der ILA Lektion abzuschliessen.
