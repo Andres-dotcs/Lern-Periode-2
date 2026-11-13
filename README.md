@@ -36,8 +36,8 @@ Entscheidung und Realisierung des Projekts anfangen sowie die grobe Planung von 
 Vielleicht an persönlichen Projekt weitermachen (bearbeiten zu mind. einen Präsentablen Zustand)
 
 ## To-Do Liste
-- [ ] Besprechung mit Projektpartner über Aufgaben aufteilung.
-- [ ] Programmiren?
+- [x] Besprechung mit Projektpartner über Aufgaben aufteilung.
+- [x] Programmiren?
 - [ ] Persönliches Projekt
 
 ## Notizen und Bemerkungen
