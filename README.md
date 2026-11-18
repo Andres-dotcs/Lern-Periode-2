@@ -26,7 +26,7 @@ Alte Module gut Abschliessen sowie mit 162 und 117 anfangen.
 ## Lernziele
 - [x] An Projekt weitermachen btw. Einfaches spiel.
 
-# 23.010.2026
+# 30.010.2026
 
 # Lern-Atelier2.3
 ### 13.11.2026
@@ -42,3 +42,17 @@ Vielleicht an persönlichen Projekt weitermachen (bearbeiten zu mind. einen Prä
 
 ## Notizen und Bemerkungen
 Einzelgespräch mit Herr Meyer. Stand des Projekts sowie der Klasse besprochen. KI im zusammen mit Applikationsentwicklung + Empfehlung ILA Eintrag **VOR** der ILA Lektion abzuschliessen.
+
+# Lern-Atelier2.4
+### 20.11.2026
+
+## Lernziele
+Die zwei fertige Programmen zusammen zu einem einzigen fertigem Programm inkorporieren (Caesar und Vingère) sowie ein "interface" für das Kryptologie Projekt machen anstatt das Programm auf die nackte Konsole laufen lassen. Das Persönliche Projekt zu wenigstens einen präsentablen Zustand weiter bearbeiten. 
+
+## To-Do Liste
+- [ ] Fertige Hauptprogramm erstellen.
+- [ ] Einfache Interface für das Programm herstellen.
+- [ ] Persönliches Projekt
+
+## Notizen und Bemerkungen
+-
