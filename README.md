@@ -50,8 +50,21 @@ Einzelgespräch mit Herr Meyer. Stand des Projekts sowie der Klasse besprochen. 
 Die zwei fertige Programmen zusammen zu einem einzigen fertigem Programm inkorporieren (Caesar und Vingère) sowie ein "interface" für das Kryptologie Projekt machen anstatt das Programm auf die nackte Konsole laufen lassen. Das Persönliche Projekt zu wenigstens einen präsentablen Zustand weiter bearbeiten. 
 
 ## To-Do Liste
-- [ ] Fertige Hauptprogramm erstellen.
+- [x] Fertige Hauptprogramm erstellen.
 - [ ] Einfache Interface für das Programm herstellen.
+- [ ] Persönliches Projekt
+
+## Notizen und Bemerkungen
+-
+
+# Lern-Atelier2.5
+### 27.11.2026
+
+## Lernziele
+Testfallspezifikation abgeben sowie über die nächste Schritte in unserem Projekt nachdenken (Arbeit Aufteilung). In meinem Persönlichen Projekt weiterabreiten. 
+
+## To-Do Liste
+- [x] Testfallspezifikation abgabe.
 - [ ] Persönliches Projekt
 
 ## Notizen und Bemerkungen
